@@ -35,6 +35,7 @@ public class MyFileWriter {
             // e.printStackTrace();
         }
         printTotalFileSize(".classifiedData/secretData.dat", ".notmypassword.txt");
+        //changes
     }
 
     private static void printTotalFileSize(String... fileNames) {
